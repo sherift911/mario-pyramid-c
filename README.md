@@ -1,4 +1,7 @@
 # Mario Pyramid (C Project)
+// Mario Pyramid Generator
+// Author: Sherif Khater
+// Description: Prints a double pyramid pattern using hashes
 
 ## Description
 This program prints a double pyramid pattern using `#` characters based on a user-defined height (1 to 8).
