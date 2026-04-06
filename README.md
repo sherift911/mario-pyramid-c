@@ -11,10 +11,7 @@ This program prints a double pyramid pattern using `#` characters based on a use
 ## Example Output
 For height = 4:
 
-   #  #
-  ##  ##
- ###  ###
-####  ####
+![Mario Pyramid](images/pyramid.png)
 
 ## Concepts Used
 - Loops (for, do-while)
